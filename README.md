@@ -48,3 +48,22 @@ A simple **Flutter app** demonstrating a **food ordering workflow** using **BLoC
 1. Clone the repository:
 ```bash
 git clone <your-repo-link>
+cd food_order_workflow
+flutter pub get
+flutter run
+flutter test
+
+---
+
+ ### ** Contributions**
+This project is primarily for academic submission / Flutter learning purposes.
+Feel free to fork, enhance UI, or add features for your personal projects.
+
+git init
+git add .
+git commit -m "Initial commit: Food Order Workflow"
+git branch -M main
+git remote add origin <your-github-repo-url>
+git push -u origin main
+
+
